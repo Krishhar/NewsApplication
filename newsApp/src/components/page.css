@@ -4,13 +4,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-bottom: 20px;
-    padding: 10px;
-    border-radius: 20px;
+    padding: 5px;
+    border-radius: 12px;
 }
 
 .pagination-numbers {
+    font-family: Arial, Helvetica, sans-serif;
     display: flex;
     align-items: center;
     background-color: #000;
@@ -24,11 +25,11 @@
     background-color: #000;
     color: #fff;
     border: none;
-    padding: 8px 16px;
-    margin: 0 5px;
+    padding: 8px 14px 8px 14px;
+    margin-left: 2px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    border-radius: 10px;
+    border-radius: 7px;
     font-size: 16px;
 }
 
